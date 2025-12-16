@@ -10,8 +10,8 @@ Follow these steps to run the project locally using a virtual environment.
 ### 1. Clone the repository
 
 ```bash
-git clone https://gitea.com/blezecon/Django-ToDoList.git
-cd Test-Django-Project
+git clone https://github.com/blezecon/Todo-do-List.git
+cd Todo-do-List
 ```
 
 
